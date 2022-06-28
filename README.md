@@ -2,44 +2,7 @@
 
    
 ### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Fantox001/Zero-Two)
-### How to enable Meaow bot On your number
--   First Open `Github Link Of Zero Two`
--  Click on Fork Button upwards right corner
--  Click on `Scan Qr` button down blew
--  `Open WhatsApp` > `Tap on three dot` > `Linked Devices` > `Link a Device`
--  You'll get `session.sam.json` in your log number upload that to forked repo
--  Click on `Deploy` purple 💜 button down blew and fill `config var` and tap on deploy
--  `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
--  Bot is Working Now,Enjoy ♥️
-
-- `Thank me later.`
-
-  
-
-  
-[![](https://telegra.ph/file/4f9e06a36784778cb8f44.jpg)](https://citels.herokuapp.com)
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ronen6999/bo)
-
-## Whatsapp Group
-
-<a href="https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-## This bot is mainly created on prefix - if you change this buttons will not work
-
-# List of Commands Available in Zero Two
-  <details>
-  <summary>List (Touch Here)</summary>
-<p>
-
-     🍁 Group Menu 🍁 
-  -  ${prefix}grouplink
-  -  ${prefix}ephemeral [option]
-  -  ${prefix}setgrouppp
-  -  ${prefix}setname [text]
-  -  ${prefix}group [option]
+### 
   -  ${prefix}editinfo [option]
   -  ${prefix}ginfo
   -  ${prefix}add @user
