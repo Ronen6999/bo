@@ -24,8 +24,8 @@ global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
-global.thum = fs.readFileSync("./ZeroTwoMedia/image6.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./ZeroTwoMedia/image6.jpg") //ur logo pic
+global.thum = fs.readFileSync("./ZeroTwoMedia/image1.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./ZeroTwoMedia/image1.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./ZeroTwoMedia/image5.jpg") //ur error pic
 global.thumb = fs.readFileSync("./ZeroTwoMedia/image5.jpg")
 
