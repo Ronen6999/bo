@@ -19,7 +19,7 @@
     "multi-device"
   ],
   "base-author": "Xeon",
-  "author": "Ronen",
+  "author": "Sam,Fantox",
   "license": "MIT",
  "dependencies": {
  "@adiwajshing/baileys": "github:sampandey001/baileys",
