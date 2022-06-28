@@ -26,8 +26,8 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 global.thum = fs.readFileSync("./ZeroTwoMedia/image1.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./ZeroTwoMedia/image1.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./ZeroTwoMedia/image5.jpg") //ur error pic
-global.thumb = fs.readFileSync("./ZeroTwoMedia/image5.jpg")
+global.err4r = fs.readFileSync("./ZeroTwoMedia/image2.jpg") //ur error pic
+global.thumb = fs.readFileSync("./ZeroTwoMedia/image2.jpg")
 
 global.ytname = "YT: Ronen Amvs"
 global.location = "India"
