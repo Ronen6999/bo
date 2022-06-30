@@ -47,7 +47,7 @@ var _0x1a32e8=_0x41cc;function _0x41cc(_0x40a8d6,_0x3701e2){var _0x2635b7=_0x263
 //═══════[modification]════════\\
 global.owner = process.env.owner || ['15069751205'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['15069751205'] //another owner number
-global.premium = ['15069751205'] //premium number
+global.premium = ['15069751205,916000530073'] //premium number
 global.pengguna = 'Meaow Bot MD' //username
 global.mongodb = process.env.MONGODB || "mongodb+srv://qwerty:lolkaguyatest@cluster0.fiwwr.mongodb.net/cluster0?retryWrites=true&w=majority"
 
@@ -113,7 +113,7 @@ global.reac = {
         }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 999 //free user limit
+    free: 9999 //free user limit
 }
 function _0x541c(){var _0x520861=['998048IAMZZZ','./assets/img/zt.jpg','thumb','777904mDNRjN','676040CCHFKt','readFileSync','967962kDYBDh','2833800DPpmXk','1317540Ofobcc','1314yvlPXk','2933gQtPbt'];_0x541c=function(){return _0x520861;};return _0x541c();}function _0x58cd(_0x281a3c,_0x3b6c20){var _0x541cd5=_0x541c();return _0x58cd=function(_0x58cd30,_0x40480a){_0x58cd30=_0x58cd30-0xaf;var _0x2d9baf=_0x541cd5[_0x58cd30];return _0x2d9baf;},_0x58cd(_0x281a3c,_0x3b6c20);}var _0x325c36=_0x58cd;(function(_0x2da43c,_0x5f3f1a){var _0x4e00f1=_0x58cd,_0x4299cb=_0x2da43c();while(!![]){try{var _0x15c880=parseInt(_0x4e00f1(0xb7))/0x1+-parseInt(_0x4e00f1(0xb4))/0x2+-parseInt(_0x4e00f1(0xaf))/0x3+parseInt(_0x4e00f1(0xb0))/0x4+-parseInt(_0x4e00f1(0xb1))/0x5+-parseInt(_0x4e00f1(0xb2))/0x6*(-parseInt(_0x4e00f1(0xb3))/0x7)+-parseInt(_0x4e00f1(0xb8))/0x8;if(_0x15c880===_0x5f3f1a)break;else _0x4299cb['push'](_0x4299cb['shift']());}catch(_0x4ed7c3){_0x4299cb['push'](_0x4299cb['shift']());}}}(_0x541c,0x63b68),global[_0x325c36(0xb6)]=fs[_0x325c36(0xb9)](_0x325c36(0xb5)));
 
